@@ -6,4 +6,4 @@
 * 🎯 **Future Goals:** Planning to learn C++ (for DSA), Java, Python, and dive deep into System Design.
 * 🚀 **Problem Solver:** Passionate about continuous learning, writing clean code, and improving problem-solving skills.
 
-# Fun Fact:** Programming is like writing a book... except if you miss a single comma, the whole book explodes! 💥
+# 🦉 Fun Fact: Programming is like writing a book... except if you miss a single comma, the whole book explodes! 💥
