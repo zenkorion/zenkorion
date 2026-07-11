@@ -1,7 +1,9 @@
 # Hi There! I'm RM-SIFAT.
 
-* 🖥️ **Full-Stack Web Developer & Designer:** I love building modern, responsive web applications and creating intuitive UI/UX experiences.
-* 🐍 **Tech Stack:** Passionate about working with Python (Flask/Django), PHP, and frontend technologies to build clean, optimized code.
-* 📊 **Database & Optimization:** Experienced in handling large-scale databases and optimizing web apps for lightning-fast performance.
-* 🎨 **Creative Explorer:** Beyond coding, I enjoy exploring UI/UX designs, modern dark-mode layouts, and AI image generation.
-* 🚀 **Continuous Learner:** Always eager to learn new technologies, collaborate on open-source projects, and solve complex problems.
+* 💻 **Frontend Expert:** Currently building modern, dynamic web UIs using React, Next.js, and Tailwind CSS.
+* ⚙️ **Backend & Database:** Crafting robust APIs with Node.js, Express, TypeScript, and MongoDB (Mongoose).
+* 🔒 **Secure & Smart Development:** Implementing authentication with BetterAuth and utilizing AI-Assisted Coding.
+* 🎯 **Future Goals:** Planning to learn C++ (for DSA), Java, Python, and dive deep into System Design.
+* 🚀 **Problem Solver:** Passionate about continuous learning, writing clean code, and improving problem-solving skills.
+
+# Fun Fact:** Programming is like writing a book... except if you miss a single comma, the whole book explodes! 💥
