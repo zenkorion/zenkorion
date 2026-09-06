@@ -7,7 +7,7 @@
   <tr>
     <td width="70%" valign="top">
 
-## About Me &nbsp; <a href="#"><img src="https://img.shields.io/badge/PROFILE_VIEW-FF6600?style=for-the-badge&logoColor=white" align="right" /></a> <a href="#"><img src="https://img.shields.io/badge/MY_PORTFOLIO-28A745?style=for-the-badge&logoColor=white" align="right" /></a>
+## About Me &nbsp;
 
 <p color="#00d2ff">
 I'm a Full-Stack Web Developer passionate about building fast, scalable web applications and intuitive UI/UX. Experienced in Python, Java, C++, and SQL, I love tackling challenges around secure authentication, responsive design, and high-performance database optimization.
@@ -28,9 +28,11 @@ I'm a Full-Stack Web Developer passionate about building fast, scalable web appl
       <a href="mailto:your.email@gmail.com">
         <img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" width="100%" alt="Email Me" />
       </a>
-      <br/><br/>
       <a href="https://linkedin.com/in/your-username" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" alt="LinkedIn" />
+      </a>
+      <a href="https://zovatool.com" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logoColor=white" width="100%" alt="portfolio" />
       </a>
     </td>
   </tr>
