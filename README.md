@@ -11,9 +11,9 @@
   <font size="6"><b>About Me</b></font>
   <br/><br/>
 
-  <!-- Main Text (ফন্ট বড় করার জন্য size="4" বা size="5" ব্যবহার করা হয়েছে) -->
-  <font size="40">
-    I'm a Full-Stack Web Developer passionate about building fast, scalable web applications and intuitive UI/UX. Experienced in Python, Java, C++, and SQL, I love tackling challenges around secure authentication, responsive design, and high-performance database optimization.
+  <!-- Main Text -->
+  <font size="4">
+    <b>I'm a Full-Stack Web Developer passionate about building fast, scalable web applications and intuitive UI/UX. Experienced in Python, Java, C++, and SQL, I love tackling challenges around secure authentication,   responsive design, and high-performance database optimization.</b>
   </font>
 
   <br/><br/>
@@ -28,7 +28,6 @@
   </font>
 
 </td>
-    <!-- ডান পাশ: ছবি ও বাটন -->
     <td width="30%" align="center" valign="top">
       <img src="x.png" width="100%" alt="Profile Image" />
       <br/><br/>
