@@ -1,7 +1,8 @@
 <!-- ================= 1. BANNER HEADER SECTION ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&text=WELCOME%20TO%20MY%20PROFILE&fontType=Anton&fontSize=40&fontColor=ffffff" alt="Anton Font Text" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a365d,100:0d1117&height=200&text=WELCOME%20TO%20MY%20PROFILE&fontType=Anton&fontSize=40&fontColor=ffffff">
+  <img alt="Banner Background" src="https://capsule-render.vercel.app/api?type=rect&color=0:4299e1,100:3182ce&height=200&text=WELCOME%20TO%20MY%20PROFILE&fontType=Anton&fontSize=40&fontColor=ffffff" width="100%">
+</picture>
 
 <!-- ================= 2. ABOUT ME & RIGHT SIDEBAR SECTION ================= -->
 
