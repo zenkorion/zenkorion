@@ -1,8 +1,29 @@
 <!-- ================= 1. BANNER HEADER SECTION ================= -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1a365d,100:0d1117&height=200&text=WELCOME%20TO%20MY%20PROFILE&fontType=Anton&fontSize=40&fontColor=ffffff">
-  <img alt="Banner Background" src="https://capsule-render.vercel.app/api?type=rect&color=0:4299e1,100:3182ce&height=200&text=WELCOME%20TO%20MY%20PROFILE&fontType=Anton&fontSize=40&fontColor=ffffff" width="100%">
-</picture>
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="100%">
+    <defs>
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Anton&amp;display=swap');
+        .text {
+          font-family: 'Anton', sans-serif;
+          font-size: 50px;
+          fill: #ffffff;
+          font-weight: bold;
+        }
+      </style>
+    </defs>
+    <!-- Background Image -->
+    <image href="rms.png" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" />
+    
+    <!-- Dark overlay to make text visible -->
+    <rect width="100%" height="100%" fill="black" opacity="0.3"/>
+    
+    <!-- Text -->
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">
+      WELCOME TO MY PROFILE
+    </text>
+  </svg>
+</div>
 
 <!-- ================= 2. ABOUT ME & RIGHT SIDEBAR SECTION ================= -->
 
