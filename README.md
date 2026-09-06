@@ -72,7 +72,7 @@
     </td>
     <!-- ডান পাশ: বড় ইমেজ বক্স -->
     <td width="500" align="center" valign="middle">
-      <img src="./YOUR_LARGE_IMAGE_NAME.png" width="100%" alt="Featured Image" />
+      <img src="pixel.gif" width="100%" alt="Featured Image" />
     </td>
   </tr>
 </table>
