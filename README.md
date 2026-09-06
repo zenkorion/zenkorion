@@ -29,7 +29,7 @@
 
 </td>
     <td width="30%" align="center" valign="top">
-      <img src="x.png" width="100%" alt="Profile Image" />
+      <img src="rmspixel.gif" width="100%" alt="Profile Image" />
       <br/><br/>
       <a href="mailto:your.email@gmail.com">
         <img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" width="100%" height="50px" alt="Email Me" />
