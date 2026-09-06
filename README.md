@@ -56,3 +56,23 @@
     </td>
   </tr>
 </table>
+
+
+
+
+<table width="100%">
+  <tr>
+    <!-- বাম পাশ: Streak Stats + General Stats (উপরে-নিচে) -->
+    <td width="50%" valign="top">
+      <!-- ১. GitHub Streak Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenkorion&theme=dark&hide_border=false&border=e4e2e2" width="100%" alt="GitHub Streak Stats" />
+      <br/><br/>
+      <!-- ২. GitHub General Stats Card -->
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zenkorion&show_icons=true&theme=dark&hide_border=false&title_color=f7d000" width="100%" alt="GitHub General Stats" />
+    </td>
+    <!-- ডান পাশ: বড় ইমেজ বক্স -->
+    <td width="500" align="center" valign="middle">
+      <img src="./YOUR_LARGE_IMAGE_NAME.png" width="100%" alt="Featured Image" />
+    </td>
+  </tr>
+</table>
