@@ -7,18 +7,16 @@
   <tr>
     <td width="70%" valign="top">
 
-<h2 color="#00d2ff">
-I'm a Full-Stack Web Developer passionate about building fast, scalable web applications and intuitive UI/UX. Experienced in Python, Java, C++, and SQL, I love tackling challenges around secure authentication, responsive design, and high-performance database optimization.
-</h2>
 
-- :white_check_mark: **Frontend Expert:** Currently building modern, dynamic web UIs using React, Next.js, and Tailwind CSS.
-- :white_check_mark: **Backend & Database:** Crafting robust APIs with Node.js, Express, TypeScript, and MongoDB (Mongoose).
-- :white_check_mark: **Secure & Smart Development:** Implementing authentication with BetterAuth and utilizing AI-Assisted Coding.
-- :white_check_mark: **Future Goals:** Planning to learn C++ (for DSA), Java, Python, and dive deep into System Design.
-- :white_check_mark: **Problem Solver:** Passionate about continuous learning, writing clean code, and improving problem-solving skills.
-
+  <p style="color: #00d2ff; font-size: 25px; line-height: 1.5; margin-top: 0;">
+        I'm a Full-Stack Web Developer passionate about building fast, scalable web applications and intuitive UI/UX. Experienced in Python, Java, C++, and SQL, I love tackling challenges around secure authentication,             responsive design, and high-performance database optimization.
+  </p>
+  ✅ <b>Frontend Expert:</b> Currently building modern, dynamic web UIs using React, Next.js, and Tailwind CSS.<br/>
+  ✅ <b>Backend & Database:</b> Crafting robust APIs with Node.js, Express, TypeScript, and MongoDB (Mongoose).<br/>
+  ✅ <b>Secure & Smart Development:</b> Implementing authentication with BetterAuth and utilizing AI-Assisted Coding.<br/>
+  ✅ <b>Future Goals:</b> Planning to learn C++ (for DSA), Java, Python, and dive deep into System Design.<br/>
+  ✅ <b>Problem Solver:</b> Passionate about continuous learning, writing clean code, and improving problem-solving skills.
     </td>
-
     <!-- ডান পাশ: ছবি ও বাটন -->
     <td width="30%" align="center" valign="top">
       <img src="./YOUR_IMAGE_NAME.png" width="100%" alt="Profile Image" />
