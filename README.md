@@ -7,11 +7,9 @@
   <tr>
     <td width="70%" valign="top">
 
-## About Me &nbsp;
-
-<p color="#00d2ff">
+<h2 color="#00d2ff">
 I'm a Full-Stack Web Developer passionate about building fast, scalable web applications and intuitive UI/UX. Experienced in Python, Java, C++, and SQL, I love tackling challenges around secure authentication, responsive design, and high-performance database optimization.
-</p>
+</h2>
 
 - :white_check_mark: **Frontend Expert:** Currently building modern, dynamic web UIs using React, Next.js, and Tailwind CSS.
 - :white_check_mark: **Backend & Database:** Crafting robust APIs with Node.js, Express, TypeScript, and MongoDB (Mongoose).
@@ -32,7 +30,7 @@ I'm a Full-Stack Web Developer passionate about building fast, scalable web appl
         <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" alt="LinkedIn" />
       </a>
       <a href="https://zovatool.com" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logoColor=white" width="100%" alt="portfolio" />
+        <img src="https://img.shields.io/badge/portfolio-2563EB?style=for-the-badge&logoColor=white" width="100%" alt="portfolio" />
       </a>
     </td>
   </tr>
