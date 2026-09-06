@@ -43,3 +43,20 @@
     </td>
   </tr>
 </table>
+
+<!-- =================  ================= -->
+
+<table width="100%">
+
+<table width="100%">
+  <tr>
+    <!-- বাম পাশ: Most Used Languages Card -->
+    <td width="40%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenkorion&layout=compact&theme=dark&hide_border=true&title_color=f7d000" width="100%" alt="Most Used Languages" />
+    </td>
+    <!-- ডান পাশ: Tech Icons GRID (বর্গাকার আইকনগুলো) -->
+    <td width="60%" align="left" valign="top">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,java,cpp,sqlite,postman,git,github,vscode,figma,docker&perline=9" width="100%" border-radius="2px" alt="Tech Stack Icons" />
+    </td>
+  </tr>
+</table>
