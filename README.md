@@ -31,10 +31,10 @@
     <td width="30%" align="center" valign="top">
       <img src="rmspixel.gif" width="100%" alt="Profile Image" />
       <br/><br/>
-      <a href="mailto:your.email@gmail.com">
+      <a href="mailto:rmsifat25@gmail.com">
         <img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" width="100%" height="50px" alt="Email Me" />
       </a>
-      <a href="https://linkedin.com/in/your-username" target="_blank">
+      <a href="https://linkedin.com/in/rm-sifat-9761553b6" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" height="50px" alt="LinkedIn" />
       </a>
       <a href="https://zovatool.com" target="_blank">
