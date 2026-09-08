@@ -18,22 +18,22 @@
 
   <!-- Heading -->
 
-  <font size="6"><b>About Me</b></font>
+  <font size="6">About Me</font>
 
-  <br/><br/>
+
 
 
 
   <!-- Main Text -->
 
-  <font size="4">
-    <b>I'm a Full-Stack Web Developer passionate about building fast, scalable web applications and intuitive UI/UX. Experienced in Python, Java, C++, and SQL, I love tackling challenges around secure authentication,   responsive design, and high-performance database optimization.</b>
 
-  </font>
+## I'm a Full-Stack Web Developer passionate about building fast, scalable web applications and intuitive UI/UX. Experienced in Python, Java, C++, and SQL, I love tackling challenges around secure authentication,   responsive design, and high-performance database optimization.
 
 
 
-  <br/><br/>
+
+
+
 
 
 
